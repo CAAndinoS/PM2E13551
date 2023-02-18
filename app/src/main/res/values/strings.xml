@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PM2E10435</string>
+    <string-array name="languages">
+        <item>Honduras(504)</item>
+        <item>Costa Rica</item>
+        <item>Guatemala(502)</item>
+        <item>El Salvador</item>
+    </string-array>
+</resources>
